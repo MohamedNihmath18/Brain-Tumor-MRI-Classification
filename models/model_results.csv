@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1_Score,Loss
+Custom CNN,69.11,0.7784,0.6911,0.6419,0.7485
+EfficientNetB0,91.46,0.9152,0.9146,0.914,0.3824
+MobileNetV2,91.06,0.9115,0.9106,0.9086,0.4777
+ResNet50,80.08,0.7952,0.8008,0.7821,0.4477
