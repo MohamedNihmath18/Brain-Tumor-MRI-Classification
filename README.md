@@ -24,7 +24,7 @@ An end-to-end deep learning project for classifying brain MRI images into 4 tumo
 | ResNet50 | 80.08% | 0.7821 |
 
 ## 🚀 Live Demo
-[Click here to try the app](<your-streamlit-url>)
+[Click here to try the app](https://brain-tumor-mri-classification-nihmathds.streamlit.app/)
 
 ## 📁 Project Structure
 
