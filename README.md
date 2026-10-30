@@ -28,12 +28,15 @@ An end-to-end deep learning project for classifying brain MRI images into 4 tumo
 
 ## 📁 Project Structure
 
+```text
 Brain-Tumor-MRI-Classification/
 ├── notebooks/          # Jupyter notebooks
 ├── models/             # Trained model files
 ├── app/                # Streamlit application
 ├── requirements.txt    # Dependencies
 └── README.md
+```
+
 
 ## 🛠️ Tech Stack
 - Python 3.12
